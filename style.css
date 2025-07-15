@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    font-size:30px;
+    color:red;
+    padding:300px 20px 0 80px;
+    transform:font-size 5s;
+}
+
+h1:hover{
+    font-size:40px;
+    text-decoration: underline;
+}
+
+.container{
+    background-image:url("bgimg.jpg");
+    background-size:cover;
+    height :100vh;
+}
